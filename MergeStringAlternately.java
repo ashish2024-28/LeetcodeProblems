@@ -1,4 +1,3 @@
-package Leetcode.LeetcodeProblems;
 
 public class MergeStringAlternately {
     public static String mergeAlternately(String word1, String word2) {
